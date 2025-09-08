@@ -1,0 +1,124 @@
+Sno,Name of Station,Wheeler,Address,Phone no.,Charging types,Timings,Pincode
+1,Ather Grid Charging Station,2-Wheeler,"Gun Foundry Street Number 1, Abids, Hyd",7676600900,_,Open 24 hours,500001
+2,Electric Pe Charging Station,"2-Wheeler,4-Wheeler","Hanuman Tekdi, Koti, Abids, Hyd",8147060222,Wall socket-3.3 kW,Open 24 hours,500001
+3,Atum Charge - EV Charging Station ,2-Wheeler," Sardar Patel Rd, Begumpet, Secunderabad",7995888251,_,9:00-21:00,500003
+4,Atum Charge - EV Charging Station | Secunderabad,2-Wheeler,"sardar patel rd, Begumpet, Hyd",7995888251,,9:00-21:00,500003
+5,Bolt.Earth - Electric Vehicle Charging Station,"2-Wheeler, 3-Wheeler","Shivaji Nagar, Secunderabad,Hyd",8045688448,Wall socket,10:30-20:00,500003
+6,Electric Vehicle Charging Station,"2-Wheeler, 4-Wheeler","St Marys rd, Secunderabad,Hyd",,Wall socket,10:30-20:00,500003
+7,Ather Grid Charging Station,2-Wheeler,"Viman Nagar, Begumpet, Hyd",7676600900,,Open 24 hours,500003
+8,Ather Grid Charging Station,2-Wheeler," Lakdikapul Rd, near to Lakdikapul, Khairtabad, Hyd",7676600900,_,10:00-21:00,500004
+9,Bolt Earth Charging Station,"2-Wheeler, 4-Wheeler","ngri metro station, hyd",8045688448,,11:00-21:00,500007
+10,ThunderPlus Charging Station,2-Wheeler,"Chandra nagar colony, Bolarum, Secunderabad",,Wall socket,Open 24 hours,500010
+11,Tata Power Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler","Ravindra Nagar Colony, Sai Chitra Nagar, Ramanthapur, Hyd",18002095161,"CHAdeMO-25 kW CCs-25 kW
+",Open 24 hours,500013
+12,Charge & Drive Charging Station,"2-Wheeler,4-Wheeler"," Begumpet Flyover, Uma Nagar, Begumpet, Hyd",4620460046,_,Open 24 hours,500016
+13,Electric Vehicle Charging Station,"2-Wheeler,4-Wheeler"," Leelanagar, Ameerpet, Hyd",_,"CCS-24 kW
+Type 2
+-7.4 kW",6:00-12:00,500016
+14,Charge & Drive Charging Station,"2-Wheeler, 4-Wheeler","sardar patel rd, Begumpet, Hyd",4620460046,,Open 24 hours,500016
+15,Electric Vehicle Charging Station,2-Wheeler,"Suprabath Nagar Colony, Balkampet, Hyd",9000022744,"Unknown connector
+- 3.3 kW",Open 24 hours,500016
+16,Charge and Drive Charging Station,4-Wheeler,"IRISET, Tarnaka, Hyd",,,Open 24 hours,500017
+17,Fortum Charging Station,"2-Wheeler,4-Wheeler","Lallaguda Railway Colony, Mettuguda, Secunderabad ",_,"CHAdeMO
+-50 kW",Open 24 hours,500017
+18,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler","Lallaguda Railway Colony, Mettuguda,Hyd",7337555238,,Open 24 hours,500017
+19,Fortum Charging Station,"3-Wheeler, 4-Wheeler","Lallaguda Railway Colony, Mettuguda,Hyd",,,Open 24 hours,500017
+20,Fortum Charging Station,2-Wheeler," Moosapet Road, Mumbai Hwy, Hyd",4620460046,_,Open 24 hours,500018
+21,Tata Power Charging Station,"2-Wheeler,4-Wheeler","Alwyn Housing Colony, Tulasi Nagar, Sanath Nagar,Hyd",18002095161,"CHAdeMO
+- 25 kW
+CCS
+- 25 kW",Open 24 hours,500018
+22,Bolt.Earth Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler","Taj complex, beside Bharath Petroleum,CzechColony, Erragadda, Hyd",8045688448,_,10:30-20:00,500018
+23,ThunderPlus Charging Station,2-Wheeler,"Gonapally, Gachibowli, Hyd",,,Open 24 hours,500019
+24,ThunderPlus Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler"," Railway station premises, RTC Colony, Kachiguda, Hyd",_,_,Open 24 hours,500027
+25,Fortum Charging Station,"2-Wheeler, 4-Wheeler","Mahindra Automotive Manufacturers Private Limited,  Uppal,  Hyderabad",,,Open 24 hours,500027
+26,Hyundai Charging Station,4-Wheeler,"Indira Nagar, Gachibowli, Hyd",,,Open 24 hours,500032
+27,Electric Vehicle Charging Station,"2-Wheeler, 4-Wheeler","orr road, Nanakramguda, Hyd",,"Type 2, CHAdeMO",Open 24 hours,500032
+28,Ather Energy Charging Station,2-Wheeler,"CBI Colony, JubliHills, Hyd",7676600900,,Open 24 hours,500033
+29,Mahindra Charging Station,"2-Wheeler, 4-Wheeler","CBI Colony, JubliHills, Hyd",18008332233,,Open 24 hours,500033
+30,Electric Vehicle Charging Station,"2-Wheeler, 4-Wheeler","rd no 66, Jubli Hills, Hyd",,,Open 24 hours,500033
+31,Electric Vehicle Charging Station,"2-Wheeler, 4-Wheeler","rd no 68, Jubli Hills, Hyd",,,Open 24 hours,500033
+32,LionCharge Charging Station,"2-Wheeler, 4-Wheeler","Venkatagiri, Jubilee Hills, Hyd",,,Open 24 hours,500033
+33,Ather Grid Charging Station,2-Wheeler," AK Enclave, Green Valley,Banjara Hills, Hyd",7676600900,_,Open 24 hours,500034
+34,Tata Power Charging Station,"2-Wheeler,4-Wheeler"," Green Valley, Banjara Hills, Hyderabad, Telangana 500034",18008332233,_,Open 24 hours,500034
+35,EV DOCK Charging Station,"2-Wheeler,4-Wheeler"," Rd Number 1, Prem Nagar, Banjara Hills, Hyd",_,"CCS
+ -60 kW
+Type 2
+-14.8 kW",Open 24 hours,500034
+36,EV DOCK Xhargin Station,"2-Wheeler, 4-Wheeler","Bhaskar Plaza, Banjara Hills, Hyd",,"ccs, Type 2",Open 24 hours,500034
+37,Ather Grid Charging Station,2-Wheeler,"Green Valley, BanjaraHills,Hyd",7676600900,,Open 24 hours,500034
+38,Tata Power Charging Station,4-Wheeler,"Green Valley, BanjaraHills,Hyd",18008332233,,Open 24 hours,500034
+39,Kazam Charging Station,2-Wheeler,"Kamalapuri colony, Banjara Hills, Hyd",9958943092,Wall socket,Open 24 hours,500034
+40,Charge And Drive Charging Station,"2-Wheeler,4-Wheeler"," Narsimha Puri Colony, Huda Colony, L. B. Nagar, Hyd",4620460046,_,Open 24 hours,500035
+41,Electric Vehicle Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler","Doctors Colony, L. B. Nagar, Hyd",_,_,Open 24 hours,500035
+42,Joulepoint Charging Station,"2-Wheeler,4-Wheeler","Narsimha Puri Colony, Huda Colony, Kothapet, Hyd",_,_,10:00-18:00,500035
+43,Jio-bp pulse Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler"," Moosarambagh Rd, next to Galleria Mall, Gaddiannaram, Hyd",18008919023,_,Open 24 hours,500036
+44,GLIDA Charging Station,2-Wheeler," Palton, Dayanand Nagar, New Malakpet,Hyd",_,_,Open 24 hours,500036
+45,Bolt.Earth - Electric Vehicle Charging Station,"2-Wheeler,4-Wheeler","Malakpet Gunj, Sri Krupa Market, Malakpet, Hyd",8045688448,_,11:00-21:00,500036
+46,Electric Vehicle Charging Station,2-Wheeler," Nagole Rto Office, uppal, Hyd",,Wall socket,Open 24 hours,500039
+47,GLIDA Charging Station,"2-Wheeler,4-Wheeler","HMR Stadium, Uppal,Hyd",,,Open 24 hours,500039
+48,ThunderPlus Charging Station,2-Wheeler,"Bahadurpalle, Gandimaisamma, Hyd",,,Open 24 hours,500043
+49,Fortum Charging Station,"2-Wheeler,3-Wheeler","Osmania University Rd, Ram Nagar Gundu, Adikmet, Hyd",4620460046,_,Open 24 hours,500044
+50,Ather Grid Charging Station,2-Wheeler,"Vidya Nagar, Adikmet, Hyd",7676600900,Type 2-3 kW,Open 24 hours,500044
+51,GLIDA Charging Station,"2-Wheeler, 4-Wheeler","Krishna Nagar, Yosufguda, Hyd",8527694526,Wall socket,Open 24 hours,500045
+52,Pi EV Charging Station,"2-Wheeler,3-Wheeler","Attapur, Radha Krishna Nagar, Hyd",_,"Wall socket
+-3.3 kW",Open 24 hours,500048
+53,Ather Charging Station,2-Wheeler,"New Sai Kailash Dhaba, 47/A/1, Inner Ring Rd, Attapur",7676600900,_,10:00-21:00,500048
+54,Tata Power Charging Station,"2-Wheeler,4-Wheeler","Survey No. 523/B, Pillar No. 160Attapur Rajendranagar mandal",_,"CHAdeMO-25 kW
+CCS -25 kW",Open 24 hours,500048
+55,Tata Power Charging Station,4-Wheeler,"IDPl Employees Colony, Hafeezpet, Hyd",18008332233,_,Open 24 hours,500049
+56,PGCIL Charging Station,"2-Wheeler,4-Wheeler","Nadigada Tanda, 
+Miyapur, Hyd",_,_,Open 24 hours,500049
+57,GLIDA Charging Station,"2-Wheeler,4-Wheeler","Nadigada Tanda, Miyapur, Hyd",_,_,Open 24 hours,500049
+58,GLIDA Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Katedan Industrial Area, Budvel, Hyd",8527694526,,Open 24 hours,500052
+59,Bolt.Earth Charging Station,"2-Wheeler,4-Wheeler"," Gandhi Nagar Industrial Area, Chinthal, Hyd",8045688448,_,11:00-21:00,500055
+60,ThunderPlus Charging Station,2-Wheeler,"Venkateshwara colony, Suraram, Hyd",7676600900,,Open 24 hours,500055
+61,Bolt.Earth Charging Station,2-Wheeler," Vani Nagar Colony, Teen Manzil Colony, Saidabad, Hyd",8045688448,_,10:30-22:00,500059
+62,Bolt.Earth Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler"," Kanchi Residency, Sahithi Nagar, Dilsukhnagar, Hyd",8045688448,_,10:30-20:00,500060
+63,ElectricPe Charging Station,2-Wheeler," Samathapuri, Kothapet, Hyd",8147060222,Wall socket,Open 24 hours,500060
+64,ThunderPlus Charging Station,2-Wheeler,"Arun Nagar, Kapra, Hyd",,,Open 24 hours,500062
+65,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","SV Nagar, Nagaram, Hyd",4620460046,,Open 24 hours,500062
+66,Ather Grid Charging Station,2-Wheeler,"Lal Darwaza South, Lal Darwaza, Hyd",7676600900,_,10:00-21:00,500065
+67,Electric Vehicle Charging Station,2-Wheeler," Adarsh Nagar Main Rd, Nagole, Hyd",,,Open 24 hours,500068
+68,Tata Charging Station,"2-Wheeler,4-Wheeler","Alkapuri X Roads (LB Nagar, Nagole, Hyd)",18002098282,"CHAdeMO-25 kW
+CCS-25 kW",Open 24 hours,500068
+69,LionCharge Charging Station,"2-Wheeler,4-Wheeler"," KPHB 5th Phase, Kukatpally, Hyd",8886064848,"Type 2
+7.4 kW",Open 24 hours,500072
+70,Charge and Drive Charging Station,"2-Wheeler,4-Wheeler"," Kukatpally Main Road, Mumbai Hwy, Hyd",4620460046,_,Open 24 hours,500072
+71,Bolt.Earth Charging Station,2-Wheeler," near Icici Atm, Kukatpally Housing Board Colony, Kukatpally, Hyd",_,_,Open 24 hours,500072
+72,GO EC Charging Station,"2-Wheeler,4-Wheeler","Balanagar Mandal, Kukatpally Housing Board Colony,Kukatpally, Hyd",8281100520,_,Open 24 hours,500072
+73,Ather Grid Charging Station,2-Wheeler," 21st Avenue, LB Nagar  Hyderabad",767660900,,10:00-21:00,500074
+74,Charge And Drive Charging Station,2-Wheeler," Hastinapuram, Padmavathi Nagar, Laxmi Narashima Puram Colony",4620460046,_,Open 24 hours,500074
+75,Ather Grid Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler"," Nagarjuna Sagar Ring Rd, Sathavahana Nagar, Bairamalguda, Hyd",7676600900,_,10:00-21:00,500074
+76,Electric Vehicle Charging Station,3-Wheeler," Rajyalaxmi Nagar, SBH Colony, L. B. Nagar, Hyd",_,_,Open 24 hours,500074
+77,Electric Vehicle Charging Station,2-Wheeler," SBH Colony, L. B. Nagar, Hyd",,,Open 24 hours,500074
+78,Tata Power Charging Station,"2-Wheeler, 4-Wheeler"," Srinagar Colony, L. B. Nagar, Hyd",,ccs,Open 24 hours,500074
+79,Tata Power Charging Station,2-Wheeler,"Srinagar Colony, L. B. Nagar, Hyd",_,CCS,Open 24 hours,500074
+80,Powerbank Charging Station,"2-Wheeler, 4-Wheeler","HMT nagar, Nacharam, Hyd",18001205438,css,Open 24 hours,500076
+81,Mahindra Charging Station,2-Wheeler,"New Santoshnagar, Santosh Nagar, Champapet, Hyd",_,_,Open 24 hours,500079
+82,Charge Zone Charging Station,"2-Wheeler,3-Wheeler,4-Wheeler","opposite Hussain Sagar, Bhagyalaxmi Nagar, Khairtabad, Hyd",18001212025,_,Open 24 hours,500080
+83,Charge Zone Charging Station,"2-Wheeler, 4-Wheeler","HITEC City, Madhapur, Hyd",18001212025,,Open 24 hours,500081
+84,VOLTRAN Charging Station,"2-Wheeler, 4-Wheeler","Kavuri hills, Madhapur, Hyd",7800174001,,Open 24 hours,500081
+85,ElectricPe Charging Station,2-Wheeler,"Kavuri hills, Madhapur, Hyd",81470602222,,Open 24 hours,500081
+86,Jio-bp pulse Charging Station,"2-Wheeler, 4-Wheeler","Opposite IKEA, Hyd",18008919032,,6:00-23:00,500081
+87,CharzNeT Charging Station,"2-Wheeler, 4-Wheeler","Spacion Towers, Madhapur, Hyd",,,6:00-22:00,500081
+88,Bolt.Earth Charging Station,2-Wheeler," Aditya Trade, Kumar Basti, Srinivasa Nagar, Ameerpet, Hyd",8045688448,_,10:30-22:00,500082
+89,Tata Power Charging Station,"2-Wheeler,4-Wheeler"," Nishat Bagh Colony, Somajiguda, Hyd",18002098282,"CHAdeMO
+- 25 kW
+CCS
+-25 kW",Open 24 hours,500082
+90,Jio-bp Charging Station,"2-Wheeler,4-Wheeler","L&T Mall, Irram Manzil Colony, Punjagutta, Hyd",18008919023,_,6:00-23:00,500082
+91,Charge And Drive Charging Station,"2-Wheeler,4-Wheeler","Raj Bhavan Rd,Somajiguda, Hyd2",4620460046,_,Open 24 hours,500082
+92,Tata Power Charging Station,"2-Wheeler, 4-Wheeler","Somajiguda,Hyd",18002098282,"css, CHAdeMO",Open 24 hours,500082
+93,Bolt.Earth Charging Station,"2-Wheeler,4-Wheeler"," Dharma Reddy Colony Phase II, JNTU college, Hyd",8045688448,_,11:00-21:00,500085
+94,Jio-bp pulse Charging Station,"2-Wheeler,4-Wheeler","Kukatpally Housing Board Rd, K P H B Phase 9, Kukatpally, Hyd",18008919023,_,6:00-23:00,500085
+95,ElectricPe Charging Station,"2-Wheeler, 4-Wheeler","Balaji nagar, Bandlaguda Jagir, Hyd",8147060222,Wall socket,Open 24 hours,500086
+96,ThunderPlus Charging Station,2-Wheeler,"Yapral, Secunderabad, Hyd",9975950100,ccs,Open 24 hours,500087
+97,ElectricPe Charging Station,"2-Wheeler, 4-Wheeler","Shiridi sai nagar, Manikonda, Hyd",8147060222,Wall socket,Open 24 hours,500089
+98,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Industrial estate, Pragathi nagar, Hyd",,"ccs, Type 2",Open 24 hours,500091
+99,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Triveni Nagar, Kanchan Bagh, Hyd",8147060222,,Open 24 hours,500097
+100,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Indian oil petrol pump, Bolarum, hyd",4620460046,,Open 24 hours,500100
+101,Charge & Drive Charging Station,"2-Wheeler,4-Wheeler"," Miyapur Main Rd,  Hafeezpet",4620460046,_,Open 24 hours,500133
+102,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Hafeezpet, madeenaguda, Hyd",4620460046,,Open 24 hours,500133
+103,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Government Jr College Rd, Rudra Colony, Hyd",7337555238,,Open 24 hours,501218
+104,ThunderPlus Charging Station,"2-Wheeler, 4-Wheeler, 3-Wheeler","Habeeb nagar, Balapur, Hyd",,,Open 24 hours,501359
