@@ -70,7 +70,7 @@ Open phpMyAdmin (http://localhost/phpmyadmin)
 
 Create a new database: spotter
 
-Import dataset from /database/evspotter.csv (or .sql if you have it)
+Import dataset from /Database/database.csv (or .sql if you have it)
 
 ## 4️⃣ Run the App
 
