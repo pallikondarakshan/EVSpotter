@@ -39,7 +39,7 @@ The increasing adoption of EVs demands **reliable and accessible charging infras
 ---
 ## 🎥 Demo Video  
 
-[Watch Demo](docs/demo.mp4)
+[Watch the demo here](https://pallikondarakshan.github.io/EV-Spotter/demo.html)
 
 ---
 
